@@ -1,6 +1,11 @@
+.headertext {
+background-color: grey ;
+
+}
+
 .App {
   text-align: center;
-  background-color: blue;
+  background-color:black;
 }
 
 .App-logo {
